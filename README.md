@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Greb
 - 👀 I’m interested in cybersec
 - 💞️ I’m looking to collaborate on ... you tell me
-- 📫 How to reach me ... there is no way!
+- 📫 How to reach me ... My discord user is 0xtranslucent
 - 😄 Pronouns: Call me whatever you want.
 - ⚡ Fun fact: I use Endeavour OS btw
 
