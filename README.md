@@ -23,7 +23,7 @@
   ʕ ᵔᴥᵔ ʔ ··· SYSTEM PROFILE ··· ʕ ᵔᴥᵔ ʔ
   ┌─────────────────────────────────────┐
   │  handle   →  Greb                   │
-  │  location →  Antarctica ❄️          │                 // AHGH MISALIGNMENT
+  │  location →  Antarctica ❄️          │
   │  status   →  self-taught developer  │
   │  role     →  ethical hacker  🔐     │
   │  os       →  Arch Linux, btw  🐧    │
