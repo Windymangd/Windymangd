@@ -19,8 +19,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  NEURAL_LINK :: ESTABLISHED          [SYS::GREB v∞.0]   ║
-║  LOCATION    :: 90°S — THE FROZEN GRID                   ║
+║  NEURAL_LINK :: ESTABLISHED          [SYS::GREB v∞.0]    ║
+║  LOCATION    :: 90°S — A COLD PLACE                      ║
 ║  OCCUPATION  :: SELF-TAUGHT DEVELOPER                    ║
 ║  THREAT LVL  :: [ ████████░░ ] ELEVATED                  ║
 ╚══════════════════════════════════════════════════════════╝
