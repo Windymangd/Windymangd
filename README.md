@@ -98,8 +98,8 @@
   "the quieter you become,
    the more you are able to hear."
 
-  staying curious. staying ethical. 
-  ❄️  transmitting from antarctica  ❄️
+  staying curious. staying ethical (sometimes). 
+  ❄️  antarctica powahh  ❄️
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Greb&color=e896c8&style=flat-square&label=✦+visitors+✦)
