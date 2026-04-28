@@ -47,8 +47,8 @@ impl Greb {
             obsessions: &[
                 "writing unsafe code and getting away with it",
                 "making microcontrollers do things they shouldn't",
-                "reading RFCs at 3AM",
-                "borrow checker arguments (I always lose)",
+                "playing ctfs",
+                "researching CVEs",
             ],
         }
     }
