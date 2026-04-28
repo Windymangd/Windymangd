@@ -21,7 +21,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║  NEURAL_LINK :: ESTABLISHED          [SYS::GREB v∞.0]    ║
 ║  LOCATION    :: 90°S — A COLD PLACE                      ║
-║  OCCUPATION  :: SELF-TAUGHT DEVELOPER                    ║
+║  OCCUPATION  :: SELF-TAUGHT HACKER                    ║
 ║  THREAT LVL  :: [ ████████░░ ] ELEVATED                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
