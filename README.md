@@ -1,6 +1,10 @@
 <div align="center">
 
 ```
+(>^ᴗ^)> ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ <(^ᴗ^<)
+```
+
+```
   ░██████╗░██████╗░███████╗██████╗░
   ██╔════╝░██╔══██╗██╔════╝██╔══██╗
   ██║░░██╗░██████╔╝█████╗░░██████╦╝
@@ -9,9 +13,11 @@
   ░╚═════╝░╚═╝░░╚═╝╚══════╝╚═════╝░
 ```
 
-*`(>^ᴗ^)> ✦ ethical hacker ✦ embedded dev ✦ arch user ✦ <(^ᴗ^<)`*
+```
+(>^ᴗ^)> ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ <(^ᴗ^<)
+```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=14&pause=1000&color=E896C8&background=00000000&center=true&vCenter=true&width=600&lines=poyo!+welcome+to+my+github+%28˶%5E%E1%B5%94%5E˶%29;self-taught+dev+from+antarctica+%E2%9D%84%EF%B8%8F;i+hack+ethically+and+pet+cats+responsibly)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=14&pause=1000&color=E896C8&background=00000000&center=true&vCenter=true&width=600&lines=poyo!+welcome+to+my+github+✦;ethical+hacker+%2F%2F+embedded+dev+%2F%2F+arch+user;inhaling+exploits+like+kirby+inhales+enemies+✦)
 
 </div>
 
@@ -20,65 +26,89 @@
 <div align="center">
 
 ```
-  ʕ ᵔᴥᵔ ʔ ··· SYSTEM PROFILE ··· ʕ ᵔᴥᵔ ʔ
-  ┌─────────────────────────────────────┐
-  │  handle   →  Greb                   │
-  │  location →  Antarctica ❄️          │
-  │  status   →  self-taught developer  │
-  │  role     →  ethical hacker  🔐     │
-  │  os       →  Arch Linux, btw  🐧    │
-  └─────────────────────────────────────┘
-         (づ｡◕‿‿◕｡)づ  poyo!
+  ･ﾟ✧  SYSTEM PROFILE  ✧ﾟ･
+  
+  ┌──────────────────────────────────────┐
+  │                                      │
+  │   (っ˶^ᵕ^˶)っ  hey, i'm Greb!       │
+  │                                      │
+  │   location  →  Antarctica ❄️          │
+  │   status    →  self-taught dev       │
+  │   role      →  ethical hacker 🔐     │
+  │   os        →  Arch Linux, btw 🐧    │
+  │                                      │
+  │   currently →  [ hacking something ] │
+  │             →  [ petting a cat     ] │
+  │             →  [ both, somehow     ] │
+  │                                      │
+  └──────────────────────────────────────┘
 ```
 
 </div>
 
 -----
 
-### ✦ `interests`   (>^ω^)>
+###   (>^ᴗ^)>  `// cybersecurity`
 
 ```
-  🔐  Cybersecurity & Ethical Hacking
-  🔧  Embedded Systems & Hardware
-  🦀  Rust Programming
-  📡  ESP32 & IoT
-  🐧  Linux (Arch, naturally)
+  ┌─ SPECIALTIES ────────────────────────────────────┐
+  │                                                   │
+  │  🔴  Red Teaming & Penetration Testing            │
+  │  📡  Network Recon & Traffic Analysis             │
+  │  🔓  Vulnerability Research                       │
+  │  📶  Wireless Security (WiFi attacks & defense)   │
+  │  🪲  Reverse Engineering & Binary Exploitation    │
+  │  🛡️  CTF Player                                   │
+  │                                                   │
+  └───────────────────────────────────────────────────┘
+
+     ／ᐠ. 。.ᐟ＼  "if kirby can inhale a whole sword,
+      ᵐᵉᵒʷˎˊ˗    i can inhale this CVE database"
 ```
-
------
-
-### ✦ `stack`   ʕ•ᴥ•ʔ
 
 <div align="center">
-
-**꩜ Languages**
-
-![Rust](https://img.shields.io/badge/Rust-e896c8?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-f7b8de?style=for-the-badge&logo=c&logoColor=555)
-![Shell](https://img.shields.io/badge/Shell-c9a0dc?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**꩜ Hardware & Embedded**
-
-![ESP32](https://img.shields.io/badge/ESP32-f9c4e1?style=for-the-badge&logo=espressif&logoColor=555)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-e8b4d8?style=for-the-badge&logo=hackster&logoColor=white)
-
-**꩜ Security**
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-e896c8?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-c9a0dc?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-f7b8de?style=for-the-badge&logo=metasploit&logoColor=555)
-
-**꩜ Environment**
-
-![Arch](https://img.shields.io/badge/Arch_Linux-f9c4e1?style=for-the-badge&logo=arch-linux&logoColor=555)
-![Neovim](https://img.shields.io/badge/Neovim-e8b4d8?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-e896c8?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-f9c4e1?style=for-the-badge&logo=burpsuite&logoColor=555)
+![nmap](https://img.shields.io/badge/nmap-e8b4d8?style=for-the-badge&logo=nmap&logoColor=white)
 
 </div>
 
 -----
 
-### ✦ `stats`   =^._.^= ∫
+###   ʕ•ᴥ•ʔ   `// languages & hardware`
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-e896c8?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-f7b8de?style=for-the-badge&logo=c&logoColor=555)
+![Shell](https://img.shields.io/badge/Shell-c9a0dc?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f9c4e1?style=for-the-badge&logo=python&logoColor=555)
+
+![ESP32](https://img.shields.io/badge/ESP32-f7b8de?style=for-the-badge&logo=espressif&logoColor=555)
+![Arduino](https://img.shields.io/badge/Arduino-e8b4d8?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-e896c8?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+-----
+
+###   =^._.^= ∫   `// daily driver`
+
+<div align="center">
+
+![Arch](https://img.shields.io/badge/Arch_Linux-f9c4e1?style=for-the-badge&logo=arch-linux&logoColor=555)
+![Neovim](https://img.shields.io/badge/Neovim-e8b4d8?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-e896c8?style=for-the-badge&logo=git&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-c9a0dc?style=for-the-badge&logo=tmux&logoColor=white)
+
+</div>
+
+-----
+
+###   (˶^ᵕ^˶)   `// stats`
 
 <div align="center">
 
@@ -93,16 +123,16 @@
 <div align="center">
 
 ```
-  ／ᐠ. 。.ᐟ＼ᵐᵉᵒʷˎˊ˗
-  
-  "the quieter you become,
-   the more you are able to hear."
+  ✦ · · · · · · · · · · · · · · · · · · · · · · ✦
 
-  staying curious. staying ethical (sometimes). 
-  ❄️  antarctica powahh  ❄️
+    (>^ᴗ^)>  poyo! thanks for visiting  <(^ᴗ^<)
+
+      🐱 stay curious     🔐 stay ethical
+             ❄️ stay warm (i don't)
+
+  ✦ · · · · · · · · · · · · · · · · · · · · · · ✦
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Greb&color=e896c8&style=flat-square&label=✦+visitors+✦)
+![Visitor Count](https://komarev.com/ghpvc/?username=Greb&color=e896c8&style=flat-square&label=✦+visitors)
 
 </div>
-
