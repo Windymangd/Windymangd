@@ -30,9 +30,9 @@
   
   ┌──────────────────────────────────────┐
   │                                      │
-  │   (っ˶^ᵕ^˶)っ  hey, i'm Greb!       │
+  │   (っ˶^ᵕ^˶)っ  hey, i'm Greb!         │
   │                                      │
-  │   location  →  Antarctica ❄️          │
+  │   location  →  Antarctica ❄️         │
   │   status    →  self-taught dev       │
   │   role      →  ethical hacker 🔐     │
   │   os        →  Arch Linux, btw 🐧    │
@@ -52,13 +52,13 @@
 
 ```
   ┌─ SPECIALTIES ────────────────────────────────────┐
-  │                                                   │
-  │  🔴  Red Teaming & Penetration Testing            │
-  │  📡  Network Recon & Traffic Analysis             │
-  │  🔓  Vulnerability Research                       │
-  │  📶  Wireless Security (WiFi attacks & defense)   │
-  │  🪲  Reverse Engineering & Binary Exploitation    │
-  │  🛡️  CTF Player                                   │
+  │                                                  │
+  │  🔴  Red Teaming & Penetration Testing           │
+  │  📡  Network Recon & Traffic Analysis            │
+  │  🔓  Vulnerability Research                      │
+  │  📶  Wireless Security (WiFi attacks & defense)  │
+  │  🪲  Reverse Engineering & Binary Exploitation   |
+  │  🛡️  CTF Player                                  │
   │                                                   │
   └───────────────────────────────────────────────────┘
 
