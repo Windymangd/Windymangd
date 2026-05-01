@@ -1,16 +1,13 @@
 <div align="center">
 
 ```
-▓█████  ███▄    █ ▄▄▄█████▓ ██▀███ ▓██   ██▓
-▓█   ▀  ██ ▀█   █ ▓  ██▒ ▓▒▓██ ▒ ██▒▒██  ██▒
-▒███   ▓██  ▀█ ██▒▒ ▓██░ ▒░▓██ ░▄█ ▒ ▒██ ██░
-▒▓█  ▄ ▓██▒  ▐▌██▒░ ▓██▓ ░ ▒██▀▀█▄   ░ ▐██▓░
-░▒████▒▒██░   ▓██░  ▒██▒ ░ ░██▓ ▒██▒ ░ ██▒▓░
-░░ ▒░ ░░ ▒░   ▒ ▒   ▒ ░░   ░ ▒▓ ░▒▓░  ██▒▒▒ 
- ░ ░  ░░ ░░   ░ ▒░    ░      ░▒ ░ ▒░▓██ ░▒░ 
-   ░      ░   ░ ░   ░        ░░   ░ ▒ ▒ ░░  
-   ░  ░         ░             ░     ░ ░      
-                                    ░ ░    
+ ██████╗ ██████╗ ███████╗██████╗ 
+██╔════╝ ██╔══██╗██╔════╝██╔══██╗
+██║  ███╗██████╔╝█████╗  ██████╔╝
+██║   ██║██╔══██╗██╔══╝  ██╔══██╗
+╚██████╔╝██║  ██║███████╗██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
+                                 
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&pause=1000&color=00FFD5&background=00000000&center=true&vCenter=true&width=700&lines=//+SIGNAL+ACQUIRED+—+IDENTITY%3A+GREB;ethical+hacker+%7C+ctf+player+%7C+embedded+dev;transmitting+from+90%C2%B0S+%E2%80%94+antarctica;%3E+the+quieter+you+become%2C+the+more+you+hear_)
@@ -23,30 +20,36 @@
 <tr>
 <td width="58%" valign="top">
 
-```python
-# identity.py — CLASSIFIED
+```rust
+// identity.rs — CLASSIFIED
 
-class Greb:
-    handle   = "Greb"
-    location = "Antarctica // 90°S"
-    status   = "self-taught developer"
-    focus    = ["ethical hacking", "CTF", "embedded systems"]
-    os       = "EndeavourOS"
-    editor   = "Neovim"
+struct Greb {
+    handle:    &'static str,
+    location:  &'static str,
+    status:    &'static str,
+    focus:     &'static [&'static str],
+    os:        &'static str,
+    editor:    &'static str,
+    secret:    &'static str,
+}
 
-    def __init__(self):
-        self.interests = [
-            "red teaming & penetration testing",
-            "CTF competitions",
-            "wireless security & wifi attacks",
-            "reverse engineering",
-            "vulnerability research",
-            "IoT & hardware hacking",
-        ]
-        self.secret = "(>^ᴗ^>) kirby fan. non-negotiable."
+impl Greb {
+    fn init() -> Self {
+        Self {
+            handle:   "Greb",
+            location: "Antarctica // 90°S",
+            status:   "self-taught developer",
+            focus:    &["ethical hacking", "CTF", "embedded systems"],
+            os:       "EndeavourOS",
+            editor:   "Neovim",
+            secret:   "(>^ᴗ^>) kirby fan. non-negotiable.",
+        }
+    }
 
-    def mantra(self) -> str:
-        return "the quieter you become, the more you hear."
+    fn mantra(&self) -> &'static str {
+        "the quieter you become, the more you hear."
+    }
+}
 ```
 
 </td>
