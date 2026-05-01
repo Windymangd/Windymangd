@@ -16,10 +16,6 @@
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="58%" valign="top">
-
 ```rust
 // identity.rs — CLASSIFIED
 
@@ -51,13 +47,6 @@ impl Greb {
     }
 }
 ```
-
-</td>
-<td width="42%" valign="middle" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB6aGR5NXQxZjZqM2R5cnU3dHBvZnU2MzRyNXJsYjBtcGRqYWNzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="260" style="border-radius:8px; box-shadow:0 0 24px rgba(0,255,213,0.3);"/>
-</td>
-</tr>
-</table>
 
 ---
 
