@@ -125,7 +125,7 @@ daily_driver:
 <td width="50%" align="center">
 <h4>Project 1</h4>
 <!-- replace USERNAME and REPO with your details -->
-<a href="https://github.com/windymangd/REPO1">
+<a href="https://github.com/windymangd/x-log">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=windymangd&repo=REPO1&hide_border=true&bg_color=fff0f8&title_color=c96faa&icon_color=e896c8&text_color=7a5470"/>
 </a>
 </td>
