@@ -113,9 +113,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greb&show_icons=true&hide_border=true&bg_color=fff0f8&title_color=c96faa&icon_color=e896c8&text_color=7a5470&ring_color=e896c8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=windymangd&show_icons=true&hide_border=true&bg_color=fff0f8&title_color=c96faa&icon_color=e896c8&text_color=7a5470&ring_color=e896c8)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greb&layout=compact&hide_border=true&bg_color=fff0f8&title_color=c96faa&text_color=7a5470)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windymangd&layout=compact&hide_border=true&bg_color=fff0f8&title_color=c96faa&text_color=7a5470)
 
 </div>
 
@@ -125,9 +125,9 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Greb&hide_border=true&background=fff0f8&ring=e896c8&fire=f7b8de&currStreakLabel=c96faa&sideLabels=c96faa&dates=7a5470&currStreakNum=c96faa&sideNums=c96faa)
+![Streak](https://streak-stats.demolab.com?user=windymangd&hide_border=true&background=fff0f8&ring=e896c8&fire=f7b8de&currStreakLabel=c96faa&sideLabels=c96faa&dates=7a5470&currStreakNum=c96faa&sideNums=c96faa)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Greb&bg_color=fff0f8&color=c96faa&line=e896c8&point=c9a0dc&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=windymangd&bg_color=fff0f8&color=c96faa&line=e896c8&point=c9a0dc&area=true&hide_border=true)
 
 </div>
 
@@ -149,6 +149,6 @@
   ✦ · · · · · · · · · · · · · · · · · · · · · · ✦
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Greb&color=e896c8&style=flat-square&label=✦+visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=windymangd&color=e896c8&style=flat-square&label=✦+visitors)
 
 </div>
