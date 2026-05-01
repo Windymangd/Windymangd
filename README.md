@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3d9,e896c8,c9a0dc&height=120&section=header"/>
+
 ```
   ░██████╗░██████╗░███████╗██████╗░
   ██╔════╝░██╔══██╗██╔════╝██╔══██╗
@@ -15,31 +17,58 @@
 
 ---
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="middle">
 
-```
-  ┌──────────────────────────────────────┐
-  │   handle    →  Greb                  │
-  │   location  →  Antarctica ❄️          │
-  │   focus     →  ethical hacking       │
-  │   os        →  EndeavourOS 🐧         │
-  │   kirby fan →  yes (non-negotiable)  │
-  └──────────────────────────────────────┘
+### `(⌐■_■) about me`
+
+```yaml
+handle        : Greb
+location      : Antarctica ❄️
+status        : self-taught developer
+focus         : ethical hacking & CTF
+os            : EndeavourOS 🐧
+editor        : Neovim
+kirby fan     : yes (non-negotiable) (>^ᴗ^>)
+
+fields_of_interest:
+  - Red Team & Penetration Testing
+  - CTF Competitions
+  - Wireless Security
+  - Reverse Engineering
+  - Embedded Systems & IoT
+  - Vulnerability Research
+
+daily_driver:
+  os      : EndeavourOS
+  editor  : Neovim
+  shell   : Zsh + tmux
+  vcs     : Git
 ```
 
-</div>
+</td>
+<td width="40%" valign="middle" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB6aGR5NXQxZjZqM2R5cnU3dHBvZnU2MzRyNXJsYjBtcGRqYWNzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="280" style="border-radius:12px; box-shadow:0 0 20px rgba(232,150,200,0.4);"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ### `// cybersecurity`
 
 ```
-  🔴  Red Teaming & Penetration Testing
-  🏴  CTF Player
-  📡  Network Recon & Traffic Analysis
-  📶  Wireless Security
-  🔓  Vulnerability Research
-  🪲  Reverse Engineering & Binary Exploitation
+  ┌─ SPECIALTIES ─────────────────────────────────────┐
+  │                                                   │
+  │  🏴  CTF Player                                   │
+  │  🔴  Red Teaming & Penetration Testing            │
+  │  📡  Network Recon & Traffic Analysis             │
+  │  📶  Wireless Security (WiFi attacks & defense)   │
+  │  🪲  Reverse Engineering & Binary Exploitation    │
+  │  🔓  Vulnerability Research                       │
+  │                                                   │
+  └───────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -85,6 +114,35 @@
 
 ---
 
+### `// projects`
+
+<div align="center">
+
+> 🚧 *more coming soon — currently building in the dark*
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h4>Project 1</h4>
+<!-- replace USERNAME and REPO with your details -->
+<a href="https://github.com/windymangd/REPO1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=windymangd&repo=REPO1&hide_border=true&bg_color=fff0f8&title_color=c96faa&icon_color=e896c8&text_color=7a5470"/>
+</a>
+</td>
+<td width="50%" align="center">
+<h4>Project 2</h4>
+<!-- replace USERNAME and REPO with your details -->
+<a href="https://github.com/windymangd/REPO2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=windymangd&repo=REPO2&hide_border=true&bg_color=fff0f8&title_color=c96faa&icon_color=e896c8&text_color=7a5470"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### `// stats`
 
 <div align="center">
@@ -92,14 +150,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=windymangd&show_icons=true&hide_border=true&bg_color=fff0f8&title_color=c96faa&icon_color=e896c8&text_color=7a5470&ring_color=e896c8)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windymangd&layout=compact&hide_border=true&bg_color=fff0f8&title_color=c96faa&text_color=7a5470)
-
-</div>
-
----
-
-### `// activity`
-
-<div align="center">
 
 ![Streak](https://streak-stats.demolab.com?user=windymangd&hide_border=true&background=fff0f8&ring=e896c8&fire=f7b8de&currStreakLabel=c96faa&sideLabels=c96faa&dates=7a5470&currStreakNum=c96faa&sideNums=c96faa)
 
@@ -118,5 +168,7 @@
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=windymangd&color=e896c8&style=flat-square&label=✦+visitors)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb3d9,e896c8,c9a0dc&height=80&section=footer"/>
 
 </div>
