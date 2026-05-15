@@ -138,7 +138,7 @@ impl Greb {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=windymangd&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=FF2D78&icon_color=00FFD5&text_color=c0c0d0&ring_color=c084fc)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Windymangd&theme=tokyonight)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windymangd&layout=compact&hide_border=true&bg_color=0d0d14&title_color=FF2D78&text_color=c0c0d0)
 
