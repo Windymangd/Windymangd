@@ -116,7 +116,7 @@ impl Greb {
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/windymangd/REPO1">
+<a href="https://github.com/windymangd/x-log">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=windymangd&repo=REPO1&hide_border=true&bg_color=0d0d14&title_color=FF2D78&icon_color=00FFD5&text_color=c0c0d0"/>
 </a>
 </td>
