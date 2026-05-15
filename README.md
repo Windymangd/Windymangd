@@ -138,9 +138,9 @@ impl Greb {
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Windymangd&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Windyman&theme=tokyonight)
 &nbsp;
-![GitHub Commits by lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Windymangd&theme=tokyonight)
+![GitHub Commits by lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Windyman&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=windymangd&hide_border=true&background=0d0d14&ring=FF2D78&fire=c084fc&currStreakLabel=00FFD5&sideLabels=00FFD5&dates=c0c0d0&currStreakNum=FF2D78&sideNums=c084fc)
 
