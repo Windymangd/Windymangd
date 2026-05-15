@@ -140,7 +140,7 @@ impl Greb {
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Windymangd&theme=tokyonight)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windymangd&layout=compact&hide_border=true&bg_color=0d0d14&title_color=FF2D78&text_color=c0c0d0)
+![GitHub Commits by lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Windymangd&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=windymangd&hide_border=true&background=0d0d14&ring=FF2D78&fire=c084fc&currStreakLabel=00FFD5&sideLabels=00FFD5&dates=c0c0d0&currStreakNum=FF2D78&sideNums=c084fc)
 
