@@ -116,13 +116,13 @@ impl Greb {
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/windymangd/x-log">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=windymangd&repo=REPO1&hide_border=true&bg_color=0d0d14&title_color=FF2D78&icon_color=00FFD5&text_color=c0c0d0"/>
+<a href="https://github.com/lordgreb/x-log">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lordgreb&repo=REPO1&hide_border=true&bg_color=0d0d14&title_color=FF2D78&icon_color=00FFD5&text_color=c0c0d0"/>
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/windymangd/REPO2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=windymangd&repo=REPO2&hide_border=true&bg_color=0d0d14&title_color=FF2D78&icon_color=00FFD5&text_color=c0c0d0"/>
+<a href="https://github.com/lordgreb/REPO2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lordgreb&repo=REPO2&hide_border=true&bg_color=0d0d14&title_color=FF2D78&icon_color=00FFD5&text_color=c0c0d0"/>
 </a>
 </td>
 </tr>
@@ -138,13 +138,13 @@ impl Greb {
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Windymangd&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lordgreb&theme=tokyonight)
 &nbsp;
-![GitHub Commits by lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Windymangd&theme=tokyonight)
+![GitHub Commits by lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lordgreb&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=windymangd&hide_border=true&background=0d0d14&ring=FF2D78&fire=c084fc&currStreakLabel=00FFD5&sideLabels=00FFD5&dates=c0c0d0&currStreakNum=FF2D78&sideNums=c084fc)
+![Streak](https://streak-stats.demolab.com?user=lordgreb&hide_border=true&background=0d0d14&ring=FF2D78&fire=c084fc&currStreakLabel=00FFD5&sideLabels=00FFD5&dates=c0c0d0&currStreakNum=FF2D78&sideNums=c084fc)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=windymangd&bg_color=0d0d14&color=00FFD5&line=FF2D78&point=c084fc&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lordgreb&bg_color=0d0d14&color=00FFD5&line=FF2D78&point=c084fc&area=true&hide_border=true)
 
 </div>
 
@@ -164,6 +164,6 @@ impl Greb {
   ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=windymangd&color=FF2D78&style=flat-square&label=//+connections)
+![Visitor Count](https://komarev.com/ghpvc/?username=lordgreb&color=FF2D78&style=flat-square&label=//+connections)
 
 </div>
